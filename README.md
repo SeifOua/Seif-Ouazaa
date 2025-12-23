@@ -84,10 +84,10 @@ My work focuses on building practical, scalable, and industry-oriented digital s
 <a href="mailto:seifinforma7@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://mytechnologi.io">
+<a href="https://mytechnology.io">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/seifeddine-ouazaa">
+<a href="https://www.linkedin.com/in/seifeddine-ouazaa-4923541">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
